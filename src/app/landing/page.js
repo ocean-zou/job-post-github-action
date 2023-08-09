@@ -12,6 +12,7 @@ export default function LandingPage() {
     <Container>
       <Navigation>
         <Logo />
+        <h1>hello world</h1>
       </Navigation>
       <Hero />
     </Container>
